@@ -225,8 +225,8 @@ importers:
         specifier: 2.1.1
         version: 2.1.1
       mermaid:
-        specifier: 10.9.1
-        version: 10.9.1
+        specifier: 10.9.3
+        version: 10.9.3
       next:
         specifier: 14.2.3
         version: 14.2.3(@babel/core@7.23.2)(react-dom@18.3.1)(react@18.3.1)
@@ -5458,8 +5458,8 @@ packages:
     engines: {node: '>= 8'}
     dev: false
 
-  /mermaid@10.9.1:
-    resolution: {integrity: sha512-Mx45Obds5W1UkW1nv/7dHRsbfMM1aOKA2+Pxs/IGHNonygDHwmng8xTHyS9z4KWVi0rbko8gjiBmuwwXQ7tiNA==}
+  /mermaid@10.9.3:
+    resolution: {integrity: sha512-V80X1isSEvAewIL3xhmz/rVmc27CVljcsbWxkxlWJWY/1kQa4XOABqpDl2qQLGKzpKm6WbTfUEKImBlUfFYArw==}
     dependencies:
       '@braintree/sanitize-url': 6.0.4
       '@types/d3-scale': 4.0.6
