@@ -39,7 +39,7 @@
     "preset": "@workspace/jest-preset"
   },
   "dependencies": {
-    "@babel/generator": "^7.24.5",
+    "@babel/generator": "^7.26.8",
     "@contentedjs/contented-pipeline": "workspace:*",
     "@contentedjs/contented-pipeline-md": "workspace:*",
     "minimatch": "^5.1.6"
