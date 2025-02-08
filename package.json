@@ -20,7 +20,7 @@
     "@types/node": "^18.19.18",
     "@workspace/eslint-config": "workspace:*",
     "@workspace/prettier-config": "workspace:*",
-    "esbuild": "^0.21.3",
+    "esbuild": "^0.25.0",
     "esbuild-jest": "^0.5.0",
     "eslint": "^8.57.0",
     "husky": "^9.0.11",
